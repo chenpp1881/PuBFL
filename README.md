@@ -1,6 +1,6 @@
 # PuBFL
 
-This repository contains the source code for the method proposed in our paper, "Federated Learning with Public Contract Knowledge Bridging for Smart Contract Vulnerability Detection". This README provides instructions on setting up the environment, preparing datasets, and running the experiments. It also includes a description of the key script files.
+This repository contains the source code for the method proposed in our paper, "Bridging Data Isolation Using Public Contract for Smart Contract Vulnerability Detection via Federated Learning". This README provides instructions on setting up the environment, preparing datasets, and running the experiments. It also includes a description of the key script files.
 
 ## 1. Setup and Execution
 
