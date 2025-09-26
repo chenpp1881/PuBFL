@@ -45,9 +45,7 @@ Follow these steps to set up the environment and run the code:
     ```
     *(Note: Ensure the respective dataset files are placed as shown.)*
 
-We use the same dataset as [Qian et al., 2023](https://github.com/Messi-Q/Cross-Modality-Bug-Detection). And we conduct experiments to assess reentrancy, timestamp dependence, and integer overflow/underflow vulnerabilities on the dataset.
-
-Further instructions on the dataset can be found on [Smart-Contract-Dataset](https://github.com/Messi-Q/Smart-Contract-Dataset), which is constantly being updated to provide more details.
+We use the same dataset as [Sepideh HajiHosseinKhani et al., 2024](https://github.com/ahlashkari/SCsVulLyzer). And we conduct experiments to assess reentrancy, timestamp dependence, and integer overflow/underflow vulnerabilities on the dataset.
 
 
 ### 1.3. Pre-training Initial Models
